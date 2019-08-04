@@ -7,3 +7,10 @@ I am using this this to build a repository of knowledge for my own personal use 
 #### The state of JS
 https://stateofjs.com/
 A useful overview of Javascript trends over time and has particularly good insight as to what frameworks are being used. This is useful for a beginner to pick a popular starting point.
+## Linux
+### Introduction
+Linux is the most common operating system for web servers and also is a really
+common development platform. While understanding Linux is not essential for web
+developement, it is an interesting and rewarding thing to understand.
+### Introduction to Linux course
+https://www.edx.org/course/introduction-to-linux
