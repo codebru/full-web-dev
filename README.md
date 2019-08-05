@@ -21,6 +21,11 @@ common development platform. While understanding Linux is not essential for web
 developement, it is an interesting and rewarding thing to understand.
 ### Introduction to Linux course
 https://www.edx.org/course/introduction-to-linux
+## History and Evolution
+# RSS
+https://www.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss
+Interesting article on potential reasons why RSS lost popularity and also
+it's original goal.
 ## Topics to cover:
 - Git
 - Tools
