@@ -21,7 +21,7 @@ common development platform. While understanding Linux is not essential for web
 developement, it is an interesting and rewarding thing to understand.
 ### Introduction to Linux course
 https://www.edx.org/course/introduction-to-linux
-##Topics to cover:
+## Topics to cover:
 - Git
 - Tools
 - Backend
