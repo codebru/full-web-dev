@@ -17,6 +17,10 @@ pick a popular starting point.
 ### Modern Javascript Explained For Dinosaurs
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 A really good overview of the current building blocks of frontend javascipt web applications.
+## Git
+### Learn git concepts, not commands
+https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+Reccomended by https://github.com/thimovss (yet to read myself)
 ## Linux
 ### Introduction
 Linux is the most common operating system for web servers and also is a really
