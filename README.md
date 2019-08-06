@@ -14,6 +14,9 @@ https://stateofjs.com/
 A useful overview of Javascript trends over time and has particularly good
 insight as to what frameworks are being used. This is useful for a beginner to
 pick a popular starting point.
+### Modern Javascript Explained For Dinosaurs
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+A really good overview of the current building blocks of frontend javascipt web applications.
 ## Linux
 ### Introduction
 Linux is the most common operating system for web servers and also is a really
