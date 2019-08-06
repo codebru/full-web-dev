@@ -26,19 +26,5 @@ https://www.edx.org/course/introduction-to-linux
 https://www.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss
 Interesting article on potential reasons why RSS lost popularity and also
 it's original goal.
-## Topics to cover:
-- Git
-- Tools
-- Backend
-- Frontend
-- Stacks
-- Evolution of the technology
-- Http
-- APIs
-- Client Server Model
-- A proper explanation of full stack
-- Dev Ops overview
-- Linux
-- Dev Machine setup
-- Social impact of the web
-- Web & information freedom
+
+[Topics To Cover](about.md)

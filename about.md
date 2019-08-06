@@ -1,0 +1,16 @@
+## Topics to cover:
+- Git
+- Tools
+- Backend
+- Frontend
+- Stacks
+- Evolution of the technology
+- Http
+- APIs
+- Client Server Model
+- A proper explanation of full stack
+- Dev Ops overview
+- Linux
+- Dev Machine setup
+- Social impact of the web
+- Web & information freedom
