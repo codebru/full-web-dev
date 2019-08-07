@@ -37,5 +37,11 @@ Great talk explaining code quality principles.
 https://www.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss
 Interesting article on potential reasons why RSS lost popularity and also
 it's original goal.
+## Research
+### Internet Sociology
+#### Oxford Internet Institute
+https://www.oii.ox.ac.uk/
+#### Humboldt Institute for Internet and Society
+https://www.hiig.de/
 
 [Topics To Cover](about.md)
