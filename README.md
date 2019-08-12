@@ -7,6 +7,18 @@ but also as a source to share with other developers. I am starting with 4 years
 experience with computer science so although that means I know barely anything,
 it also means that this might not be well tailored to an absolute beginner as I
 lack the perspective for that.
+## Beginner Resources
+I didn't follow an onlice course to learn web development, I started off by
+doing projects and studying around them, but I had already been a programmer
+for two years before I started so I knew what to look for. I have added some 
+resources here that other people recommend to get started on if you are starting from scratch.
+### Free Code Camp (HTML, CSS, Javascript, NodeJs)
+https://www.freecodecamp.org/
+As far as I am aware, the defacto starting point for a lot of learners.
+### Django Girls (HTML, CSS, Python, Django)
+https://tutorial.djangogirls.org/
+I am not a Django Developer but this is a commonly recomended starting point if
+you are interested in learning django from scratch.
 ## Full Stack
 ### Javascript
 #### The state of JS
