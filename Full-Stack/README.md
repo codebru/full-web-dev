@@ -1,6 +1,6 @@
 # Full Stack
 ## Beginner Resources
-I didn't follow an onlice course to learn web development, I started off by
+I didn't follow an online course to learn web development, I started off by
 doing projects and studying around them, but I had already been a programmer
 for two years before I started so I knew what to look for. I have added some 
 resources here that other people recommend to get started on if you are starting from scratch.
