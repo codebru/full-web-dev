@@ -20,3 +20,8 @@ pick a popular starting point.
 ## Modern Javascript Explained For Dinosaurs
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 A really good overview of the current building blocks of frontend javascipt web applications.
+## Python
+### Official Django Documentation
+https://docs.djangoproject.com/en/2.2/
+Recomended by @Bazzy-B (and the following has been advised from them)
+A useful reference for developing in Django including a good tutorial. Not for absolute beginners as it requires existing programming experience. The tuturial gives good insight into more intermediate decesion making.
