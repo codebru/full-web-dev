@@ -11,3 +11,6 @@ Things to bear in mind:
 - This does not show test driven development
 - Some of the tests are located badly the end to end test should be linked with app.js not utils.js
 - Haveing file paths for your dev machine is bad practive
+### Introduction to front end testing
+https://dev.to/christopherkade/introduction-to-front-end-unit-testing-510n
+Good introduction using Jest, Enzyme and Istanbul for frontend testing.
