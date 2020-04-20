@@ -20,6 +20,9 @@ pick a popular starting point.
 ## Modern Javascript Explained For Dinosaurs
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 A really good overview of the current building blocks of frontend javascipt web applications.
+### Bulletproof NodeJS
+https://softwareontheroad.com/ideal-nodejs-project-structure/
+I don't agree with all their structure but generally a good advanced overview
 ## Python
 ### Official Django Documentation
 https://docs.djangoproject.com/en/2.2/
