@@ -23,6 +23,9 @@ A really good overview of the current building blocks of frontend javascipt web 
 ### Bulletproof NodeJS
 https://softwareontheroad.com/ideal-nodejs-project-structure/
 I don't agree with all their structure but generally a good advanced overview
+### Building a Node.js REST API with Express
+https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6
+I skimmed this but it seems like it hits a lot of the points that I have learnt elsewhere.
 ## Python
 ### Official Django Documentation
 https://docs.djangoproject.com/en/2.2/
